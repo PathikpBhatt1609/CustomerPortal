@@ -1,0 +1,7 @@
+﻿bin/
+obj/
+*.user
+.vs/
+appsettings.Production.json
+CCM.API/Uploads/
+.vscode/settings.json
